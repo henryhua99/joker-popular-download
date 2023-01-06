@@ -1,0 +1,16 @@
+:root{
+    --theme-color: #472DD7
+}
+
+.my-header{
+    background-color: var(--theme-color);
+}
+
+.my-hero{
+    width: 350px;
+    transform: rotate(15deg);
+}
+
+.direct-download-btn{
+    border: 1px var(--theme-color) solid;
+}
